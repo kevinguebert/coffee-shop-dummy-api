@@ -1,6 +1,7 @@
 [
 	{
 		"id": 500,
+    "category": 5,
 		"name": "Chocolate Smoothie",
 		"thumbnail_image": "thumb/chocolate-smoothie.jpg",
 		"detail_image": "detail/chocolate-smoothie.jpg",
@@ -9,6 +10,7 @@
 	},
 	{
 		"id": 501,
+    "category": 5,
 		"name": "Strawberry Smoothie",
 		"thumbnail_image": "thumb/strawberry-smoothie.jpg",
 		"detail_image": "detail/strawberry-smoothie.jpg",

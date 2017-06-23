@@ -1,6 +1,7 @@
 [
 	{
 		"id": 200,
+    "category": 2,
 		"name": "Caffè Americano",
 		"thumbnail_image": "thumb/caffe-americano.jpg",
 		"detail_image": "detail/caffe-americano.jpg",
@@ -9,6 +10,7 @@
 	},
 	{
 		"id": 201,
+    "category": 2,
 		"name": "Caffè Latte",
 		"thumbnail_image": "thumb/caffe-latte.jpg",
 		"detail_image": "detail/caffe-latte.jpg",
@@ -17,6 +19,7 @@
 	},
 	{
 		"id": 202,
+    "category": 2,
 		"name": "Caffè Mocha",
 		"thumbnail_image": "thumb/caffe-mocha.jpg",
 		"detail_image": "detail/caffe-mocha.jpg",
@@ -25,6 +28,7 @@
 	},
 	{
 		"id": 203,
+    "category": 2,
 		"name": "Cappuccino",
 		"thumbnail_image": "thumb/cappuccino.jpg",
 		"detail_image": "detail/cappuccino.jpg",
@@ -33,6 +37,7 @@
 	},
 	{
 		"id": 204,
+    "category": 2,
 		"name": "Caramel Macchiato",
 		"thumbnail_image": "thumb/caramel-macchiato.jpg",
 		"detail_image": "detail/caramel-macchiato.jpg",
@@ -41,6 +46,7 @@
 	},
 	{
 		"id": 205,
+    "category": 2,
 		"name": "Cinnamon Dolce Latte",
 		"thumbnail_image": "thumb/cinnamon-dolce-latte.jpg",
 		"detail_image": "detail/cinnamon-dolce-latte.jpg",
@@ -49,6 +55,7 @@
 	},
 	{
 		"id": 206,
+    "category": 2,
 		"name": "Coconutmilk Mocha Macchiato",
 		"thumbnail_image": "thumb/coconutmilk-mocha-macchiato.jpg",
 		"detail_image": "detail/coconutmilk-mocha-macchiato.jpg",
@@ -57,6 +64,7 @@
 	},
 	{
 		"id": 207,
+    "category": 2,
 		"name": "Espresso",
 		"thumbnail_image": "thumb/espresso.jpg",
 		"detail_image": "detail/espresso.jpg",
@@ -65,6 +73,7 @@
 	},
 	{
 		"id": 208,
+    "category": 2,
 		"name": "Espresso Con Panna",
 		"thumbnail_image": "thumb/espresso-con-panna.jpg",
 		"detail_image": "detail/espresso-con-panna.jpg",
@@ -73,6 +82,7 @@
 	},
 	{
 		"id": 209,
+    "category": 2,
 		"name": "Espresso Macchiato",
 		"thumbnail_image": "thumb/espresso-macchiato.jpg",
 		"detail_image": "detail/espresso-macchiato.jpg",
@@ -81,6 +91,7 @@
 	},
 	{
 		"id": 210,
+    "category": 2,
 		"name": "Flat White",
 		"thumbnail_image": "thumb/flat-white.jpg",
 		"detail_image": "detail/flat-white.jpg",
@@ -89,6 +100,7 @@
 	},
 	{
 		"id": 211,
+    "category": 2,
 		"name": "Iced Caffè Americano",
 		"thumbnail_image": "thumb/iced-caffe-americano.jpg",
 		"detail_image": "detail/iced-caffe-americano.jpg",
@@ -97,6 +109,7 @@
 	},
 	{
 		"id": 212,
+    "category": 2,
 		"name": "Iced Caffè Latte",
 		"thumbnail_image": "thumb/iced-caffe-latte.jpg",
 		"detail_image": "detail/iced-caffe-latte.jpg",
@@ -105,6 +118,7 @@
 	},
 	{
 		"id": 213,
+    "category": 2,
 		"name": "Iced Caffè Mocha",
 		"thumbnail_image": "thumb/iced-caffe-mocha.jpg",
 		"detail_image": "detail/iced-caffe-mocha.jpg",
@@ -113,6 +127,7 @@
 	},
 	{
 		"id": 214,
+    "category": 2,
 		"name": "Iced Caramel Macchiato",
 		"thumbnail_image": "thumb/iced-caramel-macchiato.jpg",
 		"detail_image": "detail/iced-caramel-macchiato.jpg",
@@ -121,6 +136,7 @@
 	},
 	{
 		"id": 215,
+    "category": 2,
 		"name": "Iced Cinnamon Dolce Latte",
 		"thumbnail_image": "thumb/iced-cinnamon-dolce-latte.jpg",
 		"detail_image": "detail/iced-cinnamon-dolce-latte.jpg",
@@ -129,6 +145,7 @@
 	},
 	{
 		"id": 216,
+    "category": 2,
 		"name": "Iced Coconutmilk Mocha Macchiato",
 		"thumbnail_image": "thumb/iced-coconut-mocha.jpg",
 		"detail_image": "detail/iced-coconut-mocha.jpg",
@@ -137,6 +154,7 @@
 	},
 	{
 		"id": 217,
+    "category": 2,
 		"name": "Iced Skinny Cinnamon Dolce Latte",
 		"thumbnail_image": "thumb/iced-skinny-cinnamon-dolce-latte.jpg",
 		"detail_image": "detail/iced-skinny-cinnamon-dolce-latte.jpg",
@@ -145,6 +163,7 @@
 	},
 	{
 		"id": 218,
+    "category": 2,
 		"name": "Iced Skinny Latte",
 		"thumbnail_image": "thumb/iced-skinny-latte.jpg",
 		"detail_image": "detail/iced-skinny-latte.jpg",
@@ -153,6 +172,7 @@
 	},
 	{
 		"id": 219,
+    "category": 2,
 		"name": "Iced Vanilla Latte",
 		"thumbnail_image": "thumb/iced-vanilla-latte.jpg",
 		"detail_image": "detail/iced-vanilla-latte.jpg",
@@ -161,6 +181,7 @@
 	},
 	{
 		"id": 220,
+    "category": 2,
 		"name": "Iced White Chocolate Mocha",
 		"thumbnail_image": "thumb/iced-white-chocolate-mocha.jpg",
 		"detail_image": "detail/iced-white-chocolate-mocha.jpg",
@@ -169,6 +190,7 @@
 	},
 	{
 		"id": 221,
+    "category": 2,
 		"name": "Latte Macchiato",
 		"thumbnail_image": "thumb/latte-macchiato.jpg",
 		"detail_image": "detail/latte-macchiato.jpg",
@@ -177,14 +199,17 @@
 	},
 	{
 		"id": 222,
+    "category": 2,
 		"name": "Skinny Mocha",
 		"thumbnail_image": "thumb/skiny-mocha.jpg",
 		"detail_image": "detail/skiny-mocha.jpg",
 		"description": "Bittersweet skinny mocha sauce, espresso and steamed non-fat milk are lightly topped with foam. Sip on the lighter side of sweet.",
+    "category": 2,
 		"price": ,
 	},
 	{
 		"id": 223,
+    "category": 2,
 		"name": "Vanilla Latte",
 		"thumbnail_image": "thumb/vanilla-latte.jpg",
 		"detail_image": "detail/vanilla-latte.jpg",
@@ -193,6 +218,7 @@
 	},
 	{
 		"id": 224,
+    "category": 2,
 		"name": "White Chocolate Mocha",
 		"thumbnail_image": "thumb/white-chocolate-mocha.jpg",
 		"detail_image": "detail/white-chocolate-mocha.jpg",

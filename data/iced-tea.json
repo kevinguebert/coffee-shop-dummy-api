@@ -1,6 +1,7 @@
 [
 	{
 		"id": 400,
+    "category": 4,
 		"name": "Shaken Sweet Tea",
 		"thumbnail_image": "thumb/shaken-sweet-tea.jpg",
 		"detail_image": "detail/shaken-sweet-tea.jpg",
@@ -9,6 +10,7 @@
 	},
 	{
 		"id": 401,
+    "category": 4,
 		"name": "Shaken Iced Black Tea",
 		"thumbnail_image": "thumb/shaken-iced-black-tea.jpg",
 		"detail_image": "detail/shaken-iced-black-tea.jpg",
@@ -17,6 +19,7 @@
 	},
 	{
 		"id": 402,
+    "category": 4,
 		"name": "Shaken Iced Black Tea Lemonade",
 		"thumbnail_image": "thumb/shaken-iced-black-tea-lemonade.jpg",
 		"detail_image": "detail/shaken-iced-black-tea-lemonade.jpg",
@@ -25,6 +28,7 @@
 	},
 	{
 		"id": 403,
+    "category": 4,
 		"name": "Shaken Iced Green Tea",
 		"thumbnail_image": "thumb/shaken-iced-green-tea.jpg",
 		"detail_image": "detail/shaken-iced-green-tea.jpg",
@@ -33,6 +37,7 @@
 	},
 	{
 		"id": 404,
+    "category": 4,
 		"name": "Shaken Iced Green Tea Lemonade",
 		"thumbnail_image": "thumb/shaken-iced-green-tea-lemonade.jpg",
 		"detail_image": "detail/shaken-iced-green-tea-lemonade.jpg",
@@ -41,6 +46,7 @@
 	},
 	{
 		"id": 405,
+    "category": 4,
 		"name": "Shaken Iced Passion Tango Tea",
 		"thumbnail_image": "thumb/shaken-iced-passion-tango.jpg",
 		"detail_image": "detail/shaken-iced-passion-tango.jpg",
@@ -49,6 +55,7 @@
 	},
 	{
 		"id": 406,
+    "category": 4,
 		"name": "Shaken Iced Passion Tango Tea Lemonade",
 		"thumbnail_image": "thumb/shaken-iced-passion-tango-lemonade.jpg",
 		"detail_image": "detail/shaken-iced-passion-tango-lemonade.jpg",
@@ -57,6 +64,7 @@
 	},
 	{
 		"id": 407,
+    "category": 4,
 		"name": "Shaken Iced Peach Green Tea",
 		"thumbnail_image": "thumb/shaken-iced-peach-green-tea.jpg",
 		"detail_image": "detail/shaken-iced-peach-green-tea.jpg",

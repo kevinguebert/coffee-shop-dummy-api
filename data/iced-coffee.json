@@ -1,6 +1,7 @@
 [
 	{
 		"id": 300,
+    "category": 3,
 		"name": "Iced Coffee",
 		"thumbnail_image": "thumb/iced-coffee.jpg",
 		"detail_image": "detail/iced-coffee.jpg",
@@ -9,6 +10,7 @@
 	},
 	{
 		"id": 301,
+    "category": 3,
 		"name": "Iced Coffee with Milk",
 		"thumbnail_image": "thumb/iced-coffee-with-milk.jpg",
 		"detail_image": "detail/iced-coffee-with-milk.jpg",
