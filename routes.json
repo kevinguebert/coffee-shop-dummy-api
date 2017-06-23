@@ -1,0 +1,5 @@
+{
+  "/api": "/",
+  "/categories/:category": "/categories?id=:category",
+  "/categories/:category/:resource": "/:resource?category=:category"
+}
