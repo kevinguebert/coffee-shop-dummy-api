@@ -6,6 +6,12 @@ var fs = require('fs');
 var port = process.env.PORT || 3000;
 
 server.use(middlewares);
+
+server.use(jsonServer.rewriter({
+  "/categories/:category": "/categories?id=:category",
+  "/categories/:category/:resource": "/:resource?category=:category"
+}));
+
 server.use(router);
 
 server.listen(port, function () {
