@@ -29,7 +29,8 @@
   		"thumbnail_image": "thumb/blonde-roast.jpg",
   		"detail_image": "detail/blonde-roast.jpg",
   		"description": "Lightly roasted coffee that's soft, mellow and flavorful. Easy-drinking on its own and delicious with milk, sugar or flavored with vanilla, caramel or hazelnut.",
-  		"price": 1.00  	},
+  		"price": 1.00
+    },
   	{
   		"id": 101,
       "category": 1,
@@ -100,7 +101,7 @@
       "thumbnail_image": "thumb/caffe-americano.jpg",
       "detail_image": "detail/caffe-americano.jpg",
       "description": "Espresso shots are topped with hot water to produce a light layer of crema. The result is this wonderfully rich cup with depth and nuance.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 201,
@@ -109,7 +110,7 @@
       "thumbnail_image": "thumb/caffe-latte.jpg",
       "detail_image": "detail/caffe-latte.jpg",
       "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk forward warm up.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 202,
@@ -118,7 +119,7 @@
       "thumbnail_image": "thumb/caffe-mocha.jpg",
       "detail_image": "detail/caffe-mocha.jpg",
       "description": "We combine our rich, full-bodied espresso with bittersweet mocha sauce and steamed milk, then top it off with sweetened whipped cream. The classic coffee drink to satisfy your sweet tooth.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 203,
@@ -127,7 +128,7 @@
       "thumbnail_image": "thumb/cappuccino.jpg",
       "detail_image": "detail/cappuccino.jpg",
       "description": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick foam. It's truly the height of our baristas' craft.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 204,
@@ -136,7 +137,7 @@
       "thumbnail_image": "thumb/caramel-macchiato.jpg",
       "detail_image": "detail/caramel-macchiato.jpg",
       "description": "Freshly steamed milk with vanilla-flavored syrup is marked with espresso and topped with caramel drizzle for an oh-so-sweet finish.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 205,
@@ -145,7 +146,7 @@
       "thumbnail_image": "thumb/cinnamon-dolce-latte.jpg",
       "detail_image": "detail/cinnamon-dolce-latte.jpg",
       "description": "We add freshly steamed milk and cinnamon dolce flavored syrup to our classic espresso, then top it off with sweetened whipped cream and cinnamon dolce topping. You're in for a treat.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 206,
@@ -154,7 +155,7 @@
       "thumbnail_image": "thumb/coconutmilk-mocha-macchiato.jpg",
       "detail_image": "detail/coconutmilk-mocha-macchiato.jpg",
       "description": "Sumatran coconutmilk, white chocolate mocha, and Espresso roast combined with caramel drizzle and a swirl of mocha to create five perfectly-balanced layers of espresso sweetness in every sip.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 207,
@@ -163,7 +164,7 @@
       "thumbnail_image": "thumb/espresso.jpg",
       "detail_image": "detail/espresso.jpg",
       "description": "Our smooth signature Espresso Roast with rich flavor and caramelly sweetness is at the very heart of everything we do.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 208,
@@ -172,7 +173,7 @@
       "thumbnail_image": "thumb/espresso-con-panna.jpg",
       "detail_image": "detail/espresso-con-panna.jpg",
       "description": "Espresso meets a dollop of whipped cream to enhance the rich and caramelly flavors of a straight-up shot.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 209,
@@ -181,7 +182,7 @@
       "thumbnail_image": "thumb/espresso-macchiato.jpg",
       "detail_image": "detail/espresso-macchiato.jpg",
       "description": "Our rich espresso marked with dollop of steamed milk and foam. A European-style classic.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 210,
@@ -190,7 +191,7 @@
       "thumbnail_image": "thumb/flat-white.jpg",
       "detail_image": "detail/flat-white.jpg",
       "description": "Bold ristretto shots of espresso get the perfect amount of steamed whole milk to create a not too strong, not too creamy, just right flavor.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 211,
@@ -199,7 +200,7 @@
       "thumbnail_image": "thumb/iced-caffe-americano.jpg",
       "detail_image": "detail/iced-caffe-americano.jpg",
       "description": "Espresso shots are topped with water to produce a light layer of crema, then served over ice. The result is this wonderfully rich cup with depth and nuance.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 212,
@@ -208,7 +209,7 @@
       "thumbnail_image": "thumb/iced-caffe-latte.jpg",
       "detail_image": "detail/iced-caffe-latte.jpg",
       "description": "Our dark, rich espresso is combined with milk and served over ice. A perfect milk forward warm up.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 213,
@@ -217,7 +218,7 @@
       "thumbnail_image": "thumb/iced-caffe-mocha.jpg",
       "detail_image": "detail/iced-caffe-mocha.jpg",
       "description": "Espresso combined with bittersweet mocha sauce and milk over ice. Topped with sweetened whipped cream.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 214,
@@ -226,7 +227,7 @@
       "thumbnail_image": "thumb/iced-caramel-macchiato.jpg",
       "detail_image": "detail/iced-caramel-macchiato.jpg",
       "description": "We combine our rich, full-bodied espresso with vanilla-flavored syrup, milk and ice, then top it off with caramel drizzle for an oh-so-sweet finish.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 215,
@@ -235,7 +236,7 @@
       "thumbnail_image": "thumb/iced-cinnamon-dolce-latte.jpg",
       "detail_image": "detail/iced-cinnamon-dolce-latte.jpg",
       "description": "We add milk and cinnamon dolce flavored syrup to our signature espresso and ice, then top it off with sweetened whipped cream and cinnamon dolce topping. You're in for a treat.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 216,
@@ -244,7 +245,7 @@
       "thumbnail_image": "thumb/iced-coconut-mocha.jpg",
       "detail_image": "detail/iced-coconut-mocha.jpg",
       "description": "Chilled Sumatran coconutmilk, white chocolate mocha, and Espresso roast combine with caramel drizzle and a swirl of mocha to create five perfectly-balanced layers of espresso sweetness in every sip.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 217,
@@ -253,7 +254,7 @@
       "thumbnail_image": "thumb/iced-skinny-cinnamon-dolce-latte.jpg",
       "detail_image": "detail/iced-skinny-cinnamon-dolce-latte.jpg",
       "description": "Espresso, steamed non-fat milk, sugar-free cinnamon dolce flavored syrup and ice get a cinnamon dolce topping for a drink that says you can have it all.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 218,
@@ -262,7 +263,7 @@
       "thumbnail_image": "thumb/iced-skinny-latte.jpg",
       "detail_image": "detail/iced-skinny-latte.jpg",
       "description": "Bittersweet skinny mocha sauce, espresso and non-fat milk served over ice.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 219,
@@ -271,7 +272,7 @@
       "thumbnail_image": "thumb/iced-vanilla-latte.jpg",
       "detail_image": "detail/iced-vanilla-latte.jpg",
       "description": "Rich, full-bodied espresso blended with milk and vanilla syrup, served over ice.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 220,
@@ -280,7 +281,7 @@
       "thumbnail_image": "thumb/iced-white-chocolate-mocha.jpg",
       "detail_image": "detail/iced-white-chocolate-mocha.jpg",
       "description": "Our signature espresso meets white chocolate sauce, milk and ice, then is finished off with sweetened whipped cream in this white chocolate delight.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 221,
@@ -289,7 +290,7 @@
       "thumbnail_image": "thumb/latte-macchiato.jpg",
       "detail_image": "detail/latte-macchiato.jpg",
       "description": "This espresso classic has espresso shots slowly poured over lightly aerated milk for a bold and roasty new way to sip.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 222,
@@ -299,7 +300,7 @@
       "detail_image": "detail/skiny-mocha.jpg",
       "description": "Bittersweet skinny mocha sauce, espresso and steamed non-fat milk are lightly topped with foam. Sip on the lighter side of sweet.",
       "category": 2,
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 223,
@@ -308,7 +309,7 @@
       "thumbnail_image": "thumb/vanilla-latte.jpg",
       "detail_image": "detail/vanilla-latte.jpg",
       "description": "Rich, full-bodied espresso blended with creamy steamed milk and vanilla syrup.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 224,
@@ -317,7 +318,7 @@
       "thumbnail_image": "thumb/white-chocolate-mocha.jpg",
       "detail_image": "detail/white-chocolate-mocha.jpg",
       "description": "Our signature espresso meets white chocolate sauce and steamed milk, then is finished off with sweetened whipped cream in this white chocolate delight.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 300,
@@ -326,7 +327,7 @@
       "thumbnail_image": "thumb/iced-coffee.jpg",
       "detail_image": "detail/iced-coffee.jpg",
       "description": "Freshly brewed Starbucks® Iced Coffee Blend served chilled and lightly sweetened over ice.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 301,
@@ -335,7 +336,7 @@
       "thumbnail_image": "thumb/iced-coffee-with-milk.jpg",
       "detail_image": "detail/iced-coffee-with-milk.jpg",
       "description": "Freshly brewed Starbucks® Iced Coffee Blend with milk – served chilled and lightly sweetened over ice.",
-      "price": ,
+      "price": 1.00
     },
   	{
   		"id": 400,
@@ -344,7 +345,7 @@
   		"thumbnail_image": "thumb/shaken-sweet-tea.jpg",
   		"detail_image": "detail/shaken-sweet-tea.jpg",
   		"description": "A nourishing blend of mocha flavored sauce, a whole banana, milk, whey protein and fiber powder, and ice.",
-  		"price": ,
+  		"price": 1.00
   	},
   	{
   		"id": 401,
@@ -353,7 +354,7 @@
   		"thumbnail_image": "thumb/shaken-iced-black-tea.jpg",
   		"detail_image": "detail/shaken-iced-black-tea.jpg",
   		"description": "A whole banana, natural shaken-iced puree, milk and our special powder mix of whey protein and fiber are blended with ice. Nourish your body and treat your tastebuds.",
-  		"price": ,
+  		"price": 1.00
   	},
   	{
   		"id": 402,
@@ -362,7 +363,7 @@
   		"thumbnail_image": "thumb/shaken-iced-black-tea-lemonade.jpg",
   		"detail_image": "detail/shaken-iced-black-tea-lemonade.jpg",
   		"description": "A whole banana, natural shaken-iced puree, milk and our special powder mix of whey protein and fiber are blended with ice. Nourish your body and treat your tastebuds.",
-  		"price": ,
+  		"price": 1.00
   	},
   	{
   		"id": 403,
@@ -371,7 +372,7 @@
   		"thumbnail_image": "thumb/shaken-iced-green-tea.jpg",
   		"detail_image": "detail/shaken-iced-green-tea.jpg",
   		"description": "A whole banana, natural shaken-iced puree, milk and our special powder mix of whey protein and fiber are blended with ice. Nourish your body and treat your tastebuds.",
-  		"price": ,
+  		"price": 1.00
   	},
   	{
   		"id": 404,
@@ -380,7 +381,7 @@
   		"thumbnail_image": "thumb/shaken-iced-green-tea-lemonade.jpg",
   		"detail_image": "detail/shaken-iced-green-tea-lemonade.jpg",
   		"description": "A whole banana, natural shaken-iced puree, milk and our special powder mix of whey protein and fiber are blended with ice. Nourish your body and treat your tastebuds.",
-  		"price": ,
+  		"price": 1.00
   	},
   	{
   		"id": 405,
@@ -389,7 +390,7 @@
   		"thumbnail_image": "thumb/shaken-iced-passion-tango.jpg",
   		"detail_image": "detail/shaken-iced-passion-tango.jpg",
   		"description": "A whole banana, natural shaken-iced puree, milk and our special powder mix of whey protein and fiber are blended with ice. Nourish your body and treat your tastebuds.",
-  		"price": ,
+  		"price": 1.00
   	},
   	{
   		"id": 406,
@@ -398,7 +399,7 @@
   		"thumbnail_image": "thumb/shaken-iced-passion-tango-lemonade.jpg",
   		"detail_image": "detail/shaken-iced-passion-tango-lemonade.jpg",
   		"description": "A whole banana, natural shaken-iced puree, milk and our special powder mix of whey protein and fiber are blended with ice. Nourish your body and treat your tastebuds.",
-  		"price": ,
+  		"price": 1.00
   	},
   	{
   		"id": 407,
@@ -407,7 +408,7 @@
   		"thumbnail_image": "thumb/shaken-iced-peach-green-tea.jpg",
   		"detail_image": "detail/shaken-iced-peach-green-tea.jpg",
   		"description": "A whole banana, natural shaken-iced puree, milk and our special powder mix of whey protein and fiber are blended with ice. Nourish your body and treat your tastebuds.",
-  		"price": ,
+  		"price": 1.00
   	},
     {
       "id": 500,
@@ -416,7 +417,7 @@
       "thumbnail_image": "thumb/chocolate-smoothie.jpg",
       "detail_image": "detail/chocolate-smoothie.jpg",
       "description": "A nourishing blend of mocha flavored sauce, a whole banana, milk, whey protein and fiber powder, and ice.",
-      "price": ,
+      "price": 1.00
     },
     {
       "id": 501,
@@ -425,7 +426,7 @@
       "thumbnail_image": "thumb/strawberry-smoothie.jpg",
       "detail_image": "detail/strawberry-smoothie.jpg",
       "description": "A whole banana, natural strawberry puree, milk and our special powder mix of whey protein and fiber are blended with ice. Nourish your body and treat your tastebuds.",
-      "price": ,
+      "price": 1.00
     }
   ]
 }
