@@ -1,5 +1,10 @@
 {
-  "category": [
+  "welcome": [
+    {
+      "message": "Hello and welcome"
+    }
+  ],
+  "categories": [
     {
       "id": 1,
       "name": "Coffee"
@@ -24,7 +29,7 @@
   "products": [
   	{
   		"id": 100,
-      "category": 1,
+      "categories": 1,
   		"name": "Blonde Roast",
   		"thumbnail_image": "./thumb/freshly-brewed-coffee/blonde-roast.jpg",
   		"detail_image": "./detail/freshly-brewed-coffee/blonde-roast.jpg",
@@ -33,7 +38,7 @@
     },
   	{
   		"id": 101,
-      "category": 1,
+      "categories": 1,
   		"name": "Caffe Misto",
   		"thumbnail_image": "./thumb/freshly-brewed-coffee/caffe-misto.jpg",
   		"detail_image": "./detail/freshly-brewed-coffee/caffe-misto.jpg",
@@ -42,7 +47,7 @@
   	},
   	{
   		"id": 102,
-      "category": 1,
+      "categories": 1,
   		"name": "Decaf Roast",
   		"thumbnail_image": "./thumb/freshly-brewed-coffee/decaf-coffee.jpg",
   		"detail_image": "./detail/freshly-brewed-coffee/decaf-coffee.jpg",
@@ -51,7 +56,7 @@
   	},
   	{
   		"id": 103,
-      "category": 1,
+      "categories": 1,
   		"name": "Featured Dark Roast",
   		"thumbnail_image": "./thumb/freshly-brewed-coffee/featured-dark-roast.jpg",
   		"detail_image": "./detail/freshly-brewed-coffee/featured-dark-roast.jpg",
@@ -60,7 +65,7 @@
   	},
   	{
   		"id": 104,
-      "category": 1,
+      "categories": 1,
   		"name": "Nitro Cold Brew",
   		"thumbnail_image": "./thumb/freshly-brewed-coffee/nitro-cold-brew.jpg",
   		"detail_image": "./detail/freshly-brewed-coffee/nitro-cold-brew.jpg",
@@ -69,7 +74,7 @@
   	},
   	{
   		"id": 105,
-      "category": 1,
+      "categories": 1,
   		"name": "Nitro Cold Brew with Sweet Cream",
   		"thumbnail_image": "./thumb/freshly-brewed-coffee/nitro-cold-brew-sweet-cream.jpg",
   		"detail_image": "./detail/freshly-brewed-coffee/nitro-cold-brew-sweet-cream.jpg",
@@ -78,7 +83,7 @@
   	},
   	{
   		"id": 106,
-      "category": 1,
+      "categories": 1,
   		"name": "Toasted Coconut Cold Brew",
   		"thumbnail_image": "./thumb/freshly-brewed-coffee/toasted-coconut-cold-brew.jpg",
   		"detail_image": "./detail/freshly-brewed-coffee/toasted-coconut-cold-brew.jpg",
@@ -87,7 +92,7 @@
   	},
   	{
   		"id": 107,
-      "category": 1,
+      "categories": 1,
   		"name": "Vanilla Sweet Cream Cold Brew",
   		"thumbnail_image": "./thumb/freshly-brewed-coffee/vanilla-sweet-cream-cold-brew.jpg",
   		"detail_image": "./detail/freshly-brewed-coffee/vanilla-sweet-cream-cold-brew.jpg",
@@ -96,7 +101,7 @@
   	},
     {
       "id": 200,
-      "category": 2,
+      "categories": 2,
       "name": "Caffè Americano",
       "thumbnail_image": "./thumb/espress-beverages/caffe-americano.jpg",
       "detail_image": "./detail/espress-beverages/caffe-americano.jpg",
@@ -105,7 +110,7 @@
     },
     {
       "id": 201,
-      "category": 2,
+      "categories": 2,
       "name": "Caffè Latte",
       "thumbnail_image": "./thumb/espress-beverages/caffe-latte.jpg",
       "detail_image": "./detail/espress-beverages/caffe-latte.jpg",
@@ -114,7 +119,7 @@
     },
     {
       "id": 202,
-      "category": 2,
+      "categories": 2,
       "name": "Caffè Mocha",
       "thumbnail_image": "./thumb/espress-beverages/caffe-mocha.jpg",
       "detail_image": "./detail/espress-beverages/caffe-mocha.jpg",
@@ -123,7 +128,7 @@
     },
     {
       "id": 203,
-      "category": 2,
+      "categories": 2,
       "name": "Cappuccino",
       "thumbnail_image": "./thumb/espress-beverages/cappuccino.jpg",
       "detail_image": "./detail/espress-beverages/cappuccino.jpg",
@@ -132,7 +137,7 @@
     },
     {
       "id": 204,
-      "category": 2,
+      "categories": 2,
       "name": "Caramel Macchiato",
       "thumbnail_image": "./thumb/espress-beverages/caramel-macchiato.jpg",
       "detail_image": "./detail/espress-beverages/caramel-macchiato.jpg",
@@ -141,7 +146,7 @@
     },
     {
       "id": 205,
-      "category": 2,
+      "categories": 2,
       "name": "Cinnamon Dolce Latte",
       "thumbnail_image": "./thumb/espress-beverages/cinnamon-dolce-latte.jpg",
       "detail_image": "./detail/espress-beverages/cinnamon-dolce-latte.jpg",
@@ -150,7 +155,7 @@
     },
     {
       "id": 206,
-      "category": 2,
+      "categories": 2,
       "name": "Coconutmilk Mocha Macchiato",
       "thumbnail_image": "./thumb/espress-beverages/coconutmilk-mocha-macchiato.jpg",
       "detail_image": "./detail/espress-beverages/coconutmilk-mocha-macchiato.jpg",
@@ -159,7 +164,7 @@
     },
     {
       "id": 207,
-      "category": 2,
+      "categories": 2,
       "name": "Espresso",
       "thumbnail_image": "./thumb/espress-beverages/presso.jpg",
       "detail_image": "./detail/espress-beverages/presso.jpg",
@@ -168,7 +173,7 @@
     },
     {
       "id": 208,
-      "category": 2,
+      "categories": 2,
       "name": "Espresso Con Panna",
       "thumbnail_image": "./thumb/espress-beverages/presso-con-panna.jpg",
       "detail_image": "./detail/espress-beverages/presso-con-panna.jpg",
@@ -177,7 +182,7 @@
     },
     {
       "id": 209,
-      "category": 2,
+      "categories": 2,
       "name": "Espresso Macchiato",
       "thumbnail_image": "./thumb/espress-beverages/presso-macchiato.jpg",
       "detail_image": "./detail/espress-beverages/presso-macchiato.jpg",
@@ -186,7 +191,7 @@
     },
     {
       "id": 210,
-      "category": 2,
+      "categories": 2,
       "name": "Flat White",
       "thumbnail_image": "./thumb/espress-beverages/flat-white.jpg",
       "detail_image": "./detail/espress-beverages/flat-white.jpg",
@@ -195,7 +200,7 @@
     },
     {
       "id": 211,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Caffè Americano",
       "thumbnail_image": "./thumb/espress-beverages/iced-caffe-americano.jpg",
       "detail_image": "./detail/espress-beverages/iced-caffe-americano.jpg",
@@ -204,7 +209,7 @@
     },
     {
       "id": 212,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Caffè Latte",
       "thumbnail_image": "./thumb/espress-beverages/iced-caffe-latte.jpg",
       "detail_image": "./detail/espress-beverages/iced-caffe-latte.jpg",
@@ -213,7 +218,7 @@
     },
     {
       "id": 213,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Caffè Mocha",
       "thumbnail_image": "./thumb/espress-beverages/iced-caffe-mocha.jpg",
       "detail_image": "./detail/espress-beverages/iced-caffe-mocha.jpg",
@@ -222,7 +227,7 @@
     },
     {
       "id": 214,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Caramel Macchiato",
       "thumbnail_image": "./thumb/espress-beverages/iced-caramel-macchiato.jpg",
       "detail_image": "./detail/espress-beverages/iced-caramel-macchiato.jpg",
@@ -231,7 +236,7 @@
     },
     {
       "id": 215,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Cinnamon Dolce Latte",
       "thumbnail_image": "./thumb/espress-beverages/iced-cinnamon-dolce-latte.jpg",
       "detail_image": "./detail/espress-beverages/iced-cinnamon-dolce-latte.jpg",
@@ -240,7 +245,7 @@
     },
     {
       "id": 216,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Coconutmilk Mocha Macchiato",
       "thumbnail_image": "./thumb/espress-beverages/iced-coconut-mocha.jpg",
       "detail_image": "./detail/espress-beverages/iced-coconut-mocha.jpg",
@@ -249,7 +254,7 @@
     },
     {
       "id": 217,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Skinny Cinnamon Dolce Latte",
       "thumbnail_image": "./thumb/espress-beverages/iced-skinny-cinnamon-dolce-latte.jpg",
       "detail_image": "./detail/espress-beverages/iced-skinny-cinnamon-dolce-latte.jpg",
@@ -258,7 +263,7 @@
     },
     {
       "id": 218,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Skinny Latte",
       "thumbnail_image": "./thumb/espress-beverages/iced-skinny-latte.jpg",
       "detail_image": "./detail/espress-beverages/iced-skinny-latte.jpg",
@@ -267,7 +272,7 @@
     },
     {
       "id": 219,
-      "category": 2,
+      "categories": 2,
       "name": "Iced Vanilla Latte",
       "thumbnail_image": "./thumb/espress-beverages/iced-vanilla-latte.jpg",
       "detail_image": "./detail/espress-beverages/iced-vanilla-latte.jpg",
@@ -276,7 +281,7 @@
     },
     {
       "id": 220,
-      "category": 2,
+      "categories": 2,
       "name": "Iced White Chocolate Mocha",
       "thumbnail_image": "./thumb/espress-beverages/iced-white-chocolate-mocha.jpg",
       "detail_image": "./detail/espress-beverages/iced-white-chocolate-mocha.jpg",
@@ -285,7 +290,7 @@
     },
     {
       "id": 221,
-      "category": 2,
+      "categories": 2,
       "name": "Latte Macchiato",
       "thumbnail_image": "./thumb/espress-beverages/latte-macchiato.jpg",
       "detail_image": "./detail/espress-beverages/latte-macchiato.jpg",
@@ -294,17 +299,17 @@
     },
     {
       "id": 222,
-      "category": 2,
+      "categories": 2,
       "name": "Skinny Mocha",
       "thumbnail_image": "./thumb/espress-beverages/kiny-mocha.jpg",
       "detail_image": "./detail/espress-beverages/kiny-mocha.jpg",
       "description": "Bittersweet skinny mocha sauce, espresso and steamed non-fat milk are lightly topped with foam. Sip on the lighter side of sweet.",
-      "category": 2,
+      "categories": 2,
       "price": 1.00
     },
     {
       "id": 223,
-      "category": 2,
+      "categories": 2,
       "name": "Vanilla Latte",
       "thumbnail_image": "./thumb/espress-beverages/vanilla-latte.jpg",
       "detail_image": "./detail/espress-beverages/vanilla-latte.jpg",
@@ -313,7 +318,7 @@
     },
     {
       "id": 224,
-      "category": 2,
+      "categories": 2,
       "name": "White Chocolate Mocha",
       "thumbnail_image": "./thumb/espress-beverages/white-chocolate-mocha.jpg",
       "detail_image": "./detail/espress-beverages/white-chocolate-mocha.jpg",
@@ -322,7 +327,7 @@
     },
     {
       "id": 300,
-      "category": 3,
+      "categories": 3,
       "name": "Iced Coffee",
       "thumbnail_image": "./thumb/iced-coffee/iced-coffee.jpg",
       "detail_image": "./detail/iced-coffee/iced-coffee.jpg",
@@ -331,7 +336,7 @@
     },
     {
       "id": 301,
-      "category": 3,
+      "categories": 3,
       "name": "Iced Coffee with Milk",
       "thumbnail_image": "./thumb/iced-coffee/iced-coffee-with-milk.jpg",
       "detail_image": "./detail/iced-coffee/iced-coffee-with-milk.jpg",
@@ -340,7 +345,7 @@
     },
   	{
   		"id": 400,
-      "category": 4,
+      "categories": 4,
   		"name": "Shaken Sweet Tea",
   		"thumbnail_image": "./thumb/iced-tea/shaken-sweet-tea.jpg",
   		"detail_image": "./detail/iced-tea/shaken-sweet-tea.jpg",
@@ -349,7 +354,7 @@
   	},
   	{
   		"id": 401,
-      "category": 4,
+      "categories": 4,
   		"name": "Shaken Iced Black Tea",
   		"thumbnail_image": "./thumb/iced-tea/shaken-iced-black-tea.jpg",
   		"detail_image": "./detail/iced-tea/shaken-iced-black-tea.jpg",
@@ -358,7 +363,7 @@
   	},
   	{
   		"id": 402,
-      "category": 4,
+      "categories": 4,
   		"name": "Shaken Iced Black Tea Lemonade",
   		"thumbnail_image": "./thumb/iced-tea/shaken-iced-black-tea-lemonade.jpg",
   		"detail_image": "./detail/iced-tea/shaken-iced-black-tea-lemonade.jpg",
@@ -367,7 +372,7 @@
   	},
   	{
   		"id": 403,
-      "category": 4,
+      "categories": 4,
   		"name": "Shaken Iced Green Tea",
   		"thumbnail_image": "./thumb/iced-tea/shaken-iced-green-tea.jpg",
   		"detail_image": "./detail/iced-tea/shaken-iced-green-tea.jpg",
@@ -376,7 +381,7 @@
   	},
   	{
   		"id": 404,
-      "category": 4,
+      "categories": 4,
   		"name": "Shaken Iced Green Tea Lemonade",
   		"thumbnail_image": "./thumb/iced-tea/shaken-iced-green-tea-lemonade.jpg",
   		"detail_image": "./detail/iced-tea/shaken-iced-green-tea-lemonade.jpg",
@@ -385,7 +390,7 @@
   	},
   	{
   		"id": 405,
-      "category": 4,
+      "categories": 4,
   		"name": "Shaken Iced Passion Tango Tea",
   		"thumbnail_image": "./thumb/iced-tea/shaken-iced-passion-tango.jpg",
   		"detail_image": "./detail/iced-tea/shaken-iced-passion-tango.jpg",
@@ -394,7 +399,7 @@
   	},
   	{
   		"id": 406,
-      "category": 4,
+      "categories": 4,
   		"name": "Shaken Iced Passion Tango Tea Lemonade",
   		"thumbnail_image": "./thumb/iced-tea/shaken-iced-passion-tango-lemonade.jpg",
   		"detail_image": "./detail/iced-tea/shaken-iced-passion-tango-lemonade.jpg",
@@ -403,7 +408,7 @@
   	},
   	{
   		"id": 407,
-      "category": 4,
+      "categories": 4,
   		"name": "Shaken Iced Peach Green Tea",
   		"thumbnail_image": "./thumb/iced-tea/shaken-iced-peach-green-tea.jpg",
   		"detail_image": "./detail/iced-tea/shaken-iced-peach-green-tea.jpg",
@@ -412,7 +417,7 @@
   	},
     {
       "id": 500,
-      "category": 5,
+      "categories": 5,
       "name": "Chocolate Smoothie",
       "thumbnail_image": "./thumb/smoothies/chocolate-smoothie.jpg",
       "detail_image": "./detail/smoothies/chocolate-smoothie.jpg",
@@ -421,7 +426,7 @@
     },
     {
       "id": 501,
-      "category": 5,
+      "categories": 5,
       "name": "Strawberry Smoothie",
       "thumbnail_image": "./thumb/smoothies/strawberry-smoothie.jpg",
       "detail_image": "./detail/smoothies/strawberry-smoothie.jpg",
