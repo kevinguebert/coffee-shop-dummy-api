@@ -1,7 +1,20 @@
 {
   "welcome": [
     {
-      "message": "Hello and welcome"
+      "routes": {
+        "users": {
+          "all": "/users",
+          "single": "/users/:id" 
+        },
+        "categories": {
+          "all": "/categories",
+          "single": "/categories/:id"
+        },
+        "products": {
+          "all": "/:categories_id/products",
+          "single": "/:categories_id/products/:id"
+        }
+      }
     }
   ],
   "user": [
