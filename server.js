@@ -10,7 +10,7 @@ server.use(middlewares);
 server.use(jsonServer.rewriter({
 	"/routes": "/welcome",
   "/categories/:category": "/categories/:category",
-  "/categories/:category/:resource": "/:resource?category=:category"
+  "/categories/:category/:resource": "/:resource?categories=:category"
 }));
 
 server.use(router);
