@@ -4,6 +4,34 @@
       "message": "Hello and welcome"
     }
   ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Alexander Karev",
+      "title": "UI Designer @ SapientRazorfish",
+      "bio": "Born in Atlanta",
+      "email": "alexander@sapientrazorfish.com",
+      "password": "4Uq4gJZrEbTD2Hs",
+      "location": "Atlanta, GA",
+      "credit_card_number": "",
+      "credit_card_cvv": "",
+      "credit_card_zip": "",
+      "credit_card_expiration": ""
+    },
+    {
+      "id": 2,
+      "name": "Jonathan Johnson",
+      "title": "Developer @ SapientRazorfish",
+      "bio": "Born in New York",
+      "email": "jonathan@sapientrazorfish.com",
+      "password": "LQ0vKVlutSkml76",
+      "location": "Atlanta, GA",
+      "credit_card_number": "5555-000-0009",
+      "credit_card_cvv": "343",
+      "credit_card_zip": "30332",
+      "credit_card_expiration": "02/21"
+    }
+  ],
   "categories": [
     {
       "id": 1,
