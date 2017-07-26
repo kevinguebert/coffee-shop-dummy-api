@@ -53,3 +53,7 @@ To view all available routes - `localhost:3000/routes`
 All data lives in the `db.json` and is a simple JSON file with the data. If you want to change anything, just edit that file and restart the server
 
 All images live within the `public` folder
+
+### Problems
+
+Have any problems? Check out the [json-server npm package](https://github.com/typicode/json-server)!
