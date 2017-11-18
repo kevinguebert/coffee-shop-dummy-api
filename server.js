@@ -14,7 +14,6 @@ server.use(jsonServer.rewriter({
 }));
 
 server.use(router);
-// server.use('/api', router)
 
 server.listen(port, function () {
   console.log('\x1b[36mjson-server is running! PORT: ' + port);
