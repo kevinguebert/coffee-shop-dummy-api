@@ -8,6 +8,7 @@ var port = process.env.PORT || 3000;
 server.use(middlewares);
 
 server.use(jsonServer.rewriter({
+  "/categories": "/category",
   "/categories/:category": "/categories?id=:category",
   "/categories/:category/:resource": "/:resource?category=:category"
 }));
@@ -15,5 +16,6 @@ server.use(jsonServer.rewriter({
 server.use(router);
 
 server.listen(port, function () {
+
   console.log('\x1b[36mjson-server is running!');
 });
